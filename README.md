@@ -26,6 +26,28 @@ I have also integrated the core libraries used for data analysis and visualizati
 * **Matplotlib:** Foundational library for creating static, animated, and interactive visualizations.
 * **Seaborn:** Statistical data visualization for building attractive and informative graphics.
 
+
+## 📊 Statistics & Data Analysis
+I have developed a solid foundation in statistical analysis, enabling me to derive insights from complex datasets. My expertise includes:
+
+### 🔍 Descriptive Statistics
+* **Central Tendency:** Proficient in calculating and interpreting Mean, Median, and Mode.
+* **Dispersion:** Analysis of Variance and Standard Deviation to understand data spread.
+
+### 🧪 Inferential Statistics
+* **Hypothesis Testing:** Designing and executing tests to validate assumptions.
+* **Significance:** Interpreting P-values and constructing Confidence Intervals to ensure results are statistically significant.
+
+### 📈 Probability Distributions
+* Understanding and applying **Normal (Gaussian)**, **Binomial**, and **Poisson** distributions to model real-world data behavior.
+
+
+
+### 📉 Regression Analysis
+* **Linear Regression:** Modeling relationships between dependent and independent variables.
+* **Multiple Regression:** Handling multiple predictors to forecast outcomes and identify trends.
+
+
 ## 🎯 Next Steps & Future Focus
 
 The learning path continues with these planned topics:
